@@ -25,10 +25,11 @@ CSS3
 
 (Add screenshots or a live demo link here, if available)
 Example:
-🔗https://portfolio-six-orcin-nerygnn8i1.vercel.app/
+🔗https://athu092003.github.io/AP_portfolio/
 
 📬 Contact
 
 Feel free to connect or provide feedback!
 Email: atharvakapade09@gmail.com
+
 GitHub: athukapade
